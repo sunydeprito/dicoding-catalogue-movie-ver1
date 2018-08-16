@@ -23,3 +23,7 @@ This is the first project of MADE course in dicoding.com academy. The aim of thi
 2. [Loopj](http://loopj.com/android-async-http/) - A Callback-Based Http Client Library for Android
 
 3. [JustifiedTextView](https://github.com/amilcar-sr/JustifiedTextView) - JustifiedTextView is an Android View that justifies the Text!
+
+
+# Please be Noted
+For those who still do the project in MADE course please use this as reference only. Do not exactly copy this project without understand the concepts and flows of the codes. Hope this will help you to develop more project.
