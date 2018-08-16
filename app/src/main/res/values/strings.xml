@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Catalogue Movie</string>
+    <string name="find_movie">Input Movie Name</string>
+    <string name="find">Find Movie</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="date_release">Date Release</string>
+</resources>
