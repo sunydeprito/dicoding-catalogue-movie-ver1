@@ -26,4 +26,4 @@ This is the first project of MADE course in dicoding.com academy. The aim of thi
 
 
 # Please be Noted
-For those who still do the project in MADE course please use this as reference only. Do not exactly copy this project without understand the concepts and flows of the codes. Hope this will help you to develop more project.
+For those who still do the project in MADE course please use this as reference only. Hope this will help you to develop more project.
